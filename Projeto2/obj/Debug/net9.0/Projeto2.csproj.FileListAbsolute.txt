@@ -1,0 +1,14 @@
+C:\Users\thomas.vianna\Documents\VsCode\MiniProjetin\Projeto2\bin\Debug\net9.0\Projeto2.exe
+C:\Users\thomas.vianna\Documents\VsCode\MiniProjetin\Projeto2\bin\Debug\net9.0\Projeto2.deps.json
+C:\Users\thomas.vianna\Documents\VsCode\MiniProjetin\Projeto2\bin\Debug\net9.0\Projeto2.runtimeconfig.json
+C:\Users\thomas.vianna\Documents\VsCode\MiniProjetin\Projeto2\bin\Debug\net9.0\Projeto2.dll
+C:\Users\thomas.vianna\Documents\VsCode\MiniProjetin\Projeto2\bin\Debug\net9.0\Projeto2.pdb
+C:\Users\thomas.vianna\Documents\VsCode\MiniProjetin\Projeto2\obj\Debug\net9.0\Projeto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thomas.vianna\Documents\VsCode\MiniProjetin\Projeto2\obj\Debug\net9.0\Projeto2.AssemblyInfoInputs.cache
+C:\Users\thomas.vianna\Documents\VsCode\MiniProjetin\Projeto2\obj\Debug\net9.0\Projeto2.AssemblyInfo.cs
+C:\Users\thomas.vianna\Documents\VsCode\MiniProjetin\Projeto2\obj\Debug\net9.0\Projeto2.csproj.CoreCompileInputs.cache
+C:\Users\thomas.vianna\Documents\VsCode\MiniProjetin\Projeto2\obj\Debug\net9.0\Projeto2.dll
+C:\Users\thomas.vianna\Documents\VsCode\MiniProjetin\Projeto2\obj\Debug\net9.0\refint\Projeto2.dll
+C:\Users\thomas.vianna\Documents\VsCode\MiniProjetin\Projeto2\obj\Debug\net9.0\Projeto2.pdb
+C:\Users\thomas.vianna\Documents\VsCode\MiniProjetin\Projeto2\obj\Debug\net9.0\Projeto2.genruntimeconfig.cache
+C:\Users\thomas.vianna\Documents\VsCode\MiniProjetin\Projeto2\obj\Debug\net9.0\ref\Projeto2.dll
